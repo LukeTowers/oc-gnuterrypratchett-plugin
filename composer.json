@@ -1,0 +1,17 @@
+{
+    "name": "luketowers/oc-gnuterrypratchett-plugin",
+    "type": "october-plugin",
+    "description": "Keep Sir Terry Pratchett alive forever, in the OctoberCMS clacks.",
+    "homepage": "http://www.gnuterrypratchett.com/",
+    "keywords": ["october", "octobercms", "gnu", "Terry Pratchet", "clacks"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luke Towers",
+            "email": "octobercms@luketowers.ca"
+        }
+    ],
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
